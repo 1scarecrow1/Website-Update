@@ -1,4 +1,4 @@
-Project Title HERE
+My Beautiful Website
 ==================
 
 # About this project
