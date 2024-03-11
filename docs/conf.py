@@ -18,9 +18,9 @@ sys.path.insert(0, os.path.abspath("../src/"))
 
 # -- Project information -----------------------------------------------------
 
-project = "Blank Project"
-copyright = "2024, John Doe"
-author = "John Doe"
+project = "My Website Update"
+copyright = "2024, MP"
+author = "MP"
 
 # The full version, including alpha/beta/rc tags
 release = "0.1"
@@ -96,7 +96,7 @@ html_theme_options = {
         "colab_url": "",
     },
     "path_to_docs": "docs",
-    "repository_url": "https://github.com/jmbejara/blank_project",
+    "repository_url": "https://github.com/1scarecrow1/Website-Update",
     "repository_branch": "master",
     "extra_footer": "",
     "home_page_in_toc": True,
@@ -106,8 +106,8 @@ html_theme_options = {
     "use_edit_page_button": False,
     "use_issues_button": True,
 }
-html_logo = "../assets/logo.png"
-html_title = "Blank Project Template"
+html_logo = "../assets/markov.jpeg"
+html_title = "Website Update"
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
